@@ -1,0 +1,23 @@
+{
+	"name" : "dankocherga/MTool",
+	"type" : "magento-module",
+	"description" : "Magento code-generator",
+	"authors" : [{
+			"name" : "Daniel Kocherga",
+			"email" : "dan@oggettoweb.com",
+			"homepage" : "http://oggettoweb.com/"
+		}
+	],
+	"keywords" : [
+		"magento",
+		"code generator"
+	],
+	"homepage" : "https://github.com/dankocherga/MTool",
+	"license" : [
+		"BSD-3-Clause"
+	],	
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        
+    }
+}
