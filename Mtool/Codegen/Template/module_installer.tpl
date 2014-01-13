@@ -28,9 +28,6 @@
 $installer = $this;
 $installer->startSetup();
 
-try {
-    #code here...
-} catch (Exception $e) {
-    Mage::logException($e);
-}
+
+
 $installer->endSetup();
